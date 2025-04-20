@@ -1,6 +1,6 @@
 [[extensions]]
 # Name will be used for your link text and is defined in locales/en.default.json and other locale files
-name = "t:name"
+name = "Edit Draft"
 
 handle = "edit-draft"
 type = "admin_link"
