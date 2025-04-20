@@ -1,5 +1,5 @@
 {
-  "name": "Dradft Editor",
+  "name": "draft-editor",
   "private": true,
   "scripts": {
     "build": "remix vite:build",
